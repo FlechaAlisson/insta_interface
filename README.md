@@ -1,4 +1,4 @@
-#Clone da interface do Feed do *Instagram*
+##Clone da interface do Feed do *Instagram*
 O projeto desenvolvido se deu para o estudo e aplicação dos seguintes conceitos:
 * *Lazy Images* ;
 * *Scroll* infinito;
